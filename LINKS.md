@@ -14,3 +14,8 @@ https://towardsdatascience.com/parsing-fitness-tracker-data-with-python-a59e7dc1
 https://www.thisisant.com/forum/viewthread/7127
 https://plugins.qgis.org/plugins/qgis-fit-plugin/
 https://github.com/ClaperCo/Claper
+https://github.com/vkurup/python-tcxparser
+https://towardsdatascience.com/parsing-fitness-tracker-data-with-python-a59e7dc17418
+https://pypi.org/project/tcxreader/
+https://www.kaggle.com/code/runesh/rider-ride-data-from-tcx-file-plotted-on-a-graph
+https://gitlab.com/nshephard/tcx2gpx
