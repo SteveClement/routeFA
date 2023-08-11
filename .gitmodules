@@ -1,0 +1,6 @@
+[submodule "gopro-dashboard-overlay"]
+	path = gopro-dashboard-overlay
+	url = https://github.com/SteveClement/gopro-dashboard-overlay.git
+[submodule "gopro2gpx"]
+	path = gopro2gpx
+	url = https://github.com/SteveClement/gopro2gpx.git
